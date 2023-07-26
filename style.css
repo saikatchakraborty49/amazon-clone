@@ -20,7 +20,7 @@
     margin-right: 3px;
 }
 .nav-logo-img{
-    background-image: url(images/amazon_logo-2.png);
+    background-image: URL(./amazon_logo-2.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -280,7 +280,7 @@
 .foot-amazon-logo{
     width: 100px;
     height: 35px;
-    background-image: url('./images/amazon_logo.png');
+    background-image: url('./amazon_logo.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
