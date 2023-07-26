@@ -20,7 +20,7 @@
     margin-right: 3px;
 }
 .nav-logo-img{
-    background-image: URL(./amazon_logo-2.png);
+    background-image: URL("./amazon_logo-2.png");
     background-size: cover;
     height: 50px;
     width: 100%;
